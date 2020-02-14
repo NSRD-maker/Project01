@@ -8,7 +8,7 @@ public class Exception {
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Exception thrown  :" + e);
         } finally {
-            System.out.println(45678);
+            System.out.println(41235678);
         }
 
 
